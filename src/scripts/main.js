@@ -11,3 +11,4 @@ textInput.addEventListener("keyup", function (event) {
     textOutput1.innerHTML = event.target.value
     textOutput2.innerHTML = event.target.value
 })
+
